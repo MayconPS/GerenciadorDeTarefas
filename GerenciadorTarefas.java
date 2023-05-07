@@ -18,11 +18,11 @@ public class GerenciadorTarefas {
 		this.tarefasConcluidas = new ArrayList<>();
 	}
 
-	public ArrayList<Tarefa> getTarefasPendentes() {
+	public ArrayList<Tarefa> getTarefasPendentes(){
 		return tarefasPendentes;
 	}
 
-	public void setTarefasPendentes(ArrayList<Tarefa> tarefasPendentes) {
+	public void setTarefasPendentes(ArrayList<Tarefa> tarefasPendentes){
 		this.tarefasPendentes = tarefasPendentes;
 	}
 
