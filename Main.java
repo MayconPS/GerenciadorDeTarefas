@@ -34,7 +34,7 @@ public class Main {
 	    
 	    do {
 	        System.out.println("Gerenciador de Tarefas");
-	        System.out.println("----------------------");
+	        System.out.println("-------------------------");
 	        System.out.println("1 - Adicionar tarefa pendente");
 	        System.out.println("2 - Adicionar tarefa concluída");
 	        System.out.println("3 - Exibir tarefas pendentes");
